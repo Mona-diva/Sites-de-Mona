@@ -1,0 +1,18 @@
+body {
+  margin: 0.5px;
+  font-family: Arial;
+  background-color: #f1f0f5;
+  padding: 30px;
+}
+
+h1 {
+  color: #6f55ff;
+}
+h3 {
+  color: #5f1fee;
+}
+p {
+  font-size: 18px;
+  line-height: 1.75;
+  padding-block: 2px
+}
